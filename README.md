@@ -1,2 +1,1 @@
-# Data-Structures
-data structures implemented in java
+data structures

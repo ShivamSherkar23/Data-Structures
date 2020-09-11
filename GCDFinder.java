@@ -18,6 +18,7 @@ public class GCDFinder
         int v2=sobj.nextInt();
         
         int ans = gcd(v1, v2);
-        System.out.println("gcd of the two numbers is " +ans);
+		System.out.println("gcd of the two numbers is " +ans);
+		sobj.close();
 	}
 }
